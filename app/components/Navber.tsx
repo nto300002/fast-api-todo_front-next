@@ -75,12 +75,6 @@ export default function Navbar() {
                 >
                   新規登録
                 </Link>
-                <button
-                  onClick={handleLogout}
-                  className="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
-                >
-                  テストログアウト
-                </button>
               </>
             )}
           </div>
